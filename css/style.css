@@ -1114,8 +1114,6 @@ button:focus {
 ============================================================================================ */
 .footer_area {
   padding: 250px 0px;
-  position: relative; 
-    content: '';
     background: #f9f9fd;
     z-index: -1; }
   @media (max-width: 1024px) {
